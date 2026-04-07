@@ -1,6 +1,9 @@
 # FinCalc Lib 
+
 A lightweight Python library for essential finance analytics, including NPS, profitability margins, and cash flow metrics.
-## Features- **Customer Metrics**: Calculate Net Promoter Score (NPS).- **Profitability**: Gross, Operating, and Net Profit Margins.- **Liquidity & Leverage**: Current Ratio and Debt-to-Equity.- **Cash Flow**: Free Cash Flow (FCF) and Operating Cash Flow (CFO).
+
+#### Features- **Customer Metrics**: Calculate Net Promoter Score (NPS).- **Profitability**: Gross, Operating, and Net Profit Margins.- **Liquidity & Leverage**: Current Ratio and Debt-to-Equity.- **Cash Flow**: Free Cash Flow (FCF) and Operating Cash Flow (CFO).
+
 ## Installation
 You can install the package directly from PyPI:
 
@@ -21,13 +24,15 @@ print(f"Your NPS is: {nps}")
 print(f"Profit Margin: {margin}%")
 
 ## Available Formulas
+|-----------|---------------------|--------------------------------------|
+| Category  | Function            | Formula                              |
+|-----------|---------------------|--------------------------------------|
+| Customer  | calculate_nps       | %Promoters - %Detractors             |
+| Profit    | gross_profit_margin | (Gross Profit / Revenue) * 100       |
+| Leverage  | debt_to_equity      | Total Liability / Total Equity       |
+| Cash Flow | free_cash_flow      | CFO - Capital Expenditures           |
+|-----------|---------------------|--------------------------------------|
 
-| Category | Function | Formula |
-|---|---|---|
-| Customer | calculate_nps | %Promoters - %Detractors |
-| Profit | gross_profit_margin | (Gross Profit / Revenue) * 100 |
-| Leverage | debt_to_equity | Total Liability / Total Equity |
-| Cash Flow | free_cash_flow | CFO - Capital Expenditures |
 
 ## Development
 If you want to contribute or build the wheel yourself:
@@ -43,5 +48,4 @@ If you want to contribute or build the wheel yourself:
    
 ## License
 MIT
-# finance_calculator
-# finance_calculator
+
