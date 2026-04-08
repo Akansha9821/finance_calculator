@@ -2,7 +2,12 @@
 
 A lightweight Python library for essential finance analytics, including NPS, profitability margins, and cash flow metrics.
 
-#### Features- **Customer Metrics**: Calculate Net Promoter Score (NPS).- **Profitability**: Gross, Operating, and Net Profit Margins.- **Liquidity & Leverage**: Current Ratio and Debt-to-Equity.- **Cash Flow**: Free Cash Flow (FCF) and Operating Cash Flow (CFO).
+##### Features
+
+- **Customer Metrics**: Calculate Net Promoter Score (NPS).
+- **Profitability**: Gross, Operating, and Net Profit Margins.
+- **Liquidity & Leverage**: Current Ratio and Debt-to-Equity.
+- **Cash Flow**: Free Cash Flow (FCF) and Operating Cash Flow (CFO).
 
 ## Installation
 You can install the package directly from PyPI:
@@ -39,7 +44,7 @@ If you want to contribute or build the wheel yourself:
 
    1. Clone the repo:
    
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/Akansha9821/finance_calculator.git)
    
    2. Build the package:
    
