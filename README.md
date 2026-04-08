@@ -16,6 +16,9 @@ https://pypi.org/project/fincalc-lib/
 
 https://pypi.org/project/fincalc-lib/
 
+<img width="1463" height="772" alt="Screenshot 2026-04-08 at 10 09 18 AM" src="https://github.com/user-attachments/assets/0e80bcd9-7c7a-4746-8e2b-cfb452a0a4a2" />
+
+
 #### List Of All calculated Function and Formulas
 
 <img width="1153" height="638" alt="Screenshot 2026-04-08 at 10 03 49 AM" src="https://github.com/user-attachments/assets/304c5ae0-91d2-4fe3-9168-dc2cf410a35e" />
