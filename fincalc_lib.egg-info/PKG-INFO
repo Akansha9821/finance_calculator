@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fincalc-lib
+Version: 1.0.0
+Summary: Finance Analytics Calculator Library
+Author: Akansha Rana
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary

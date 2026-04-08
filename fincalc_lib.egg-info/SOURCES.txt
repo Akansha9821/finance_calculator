@@ -1,0 +1,8 @@
+README.md
+setup.py
+fincalc/__init__.py
+fincalc/analytics.py
+fincalc_lib.egg-info/PKG-INFO
+fincalc_lib.egg-info/SOURCES.txt
+fincalc_lib.egg-info/dependency_links.txt
+fincalc_lib.egg-info/top_level.txt
