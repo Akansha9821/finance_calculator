@@ -9,6 +9,13 @@ A lightweight Python library for essential finance analytics, including NPS, pro
 - **Liquidity & Leverage**: Current Ratio and Debt-to-Equity.
 - **Cash Flow**: Free Cash Flow (FCF) and Operating Cash Flow (CFO).
 
+#### Live URL
+https://pypi.org/project/fincalc-lib/
+
+#### Dashboard Image Refrence
+
+https://pypi.org/project/fincalc-lib/
+
 #### List Of All calculated Function and Formulas
 
 <img width="1153" height="638" alt="Screenshot 2026-04-08 at 10 03 49 AM" src="https://github.com/user-attachments/assets/304c5ae0-91d2-4fe3-9168-dc2cf410a35e" />
