@@ -1,5 +1,6 @@
 This updated `README.md` incorporates the new advanced analytical features (NPV, EBITDA, Risk Analysis, and Simulations) while maintaining your existing structure and branding.
 
+
 -----
 
 # FinCalc Lib
@@ -107,5 +108,6 @@ If you want to contribute or build the wheel yourself:
     ```
 
 ## License
+
 
 MIT
