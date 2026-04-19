@@ -107,7 +107,9 @@ If you want to contribute or build the wheel yourself:
 2.  **Build the package:**
 
     ```bash
+    rm -rf dist/ build/ *.egg-info
     python -m build
+    twine upload dist/*
     ```
 
 ## License
