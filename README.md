@@ -78,6 +78,7 @@ print(f"Projected Median Price: {sim['median_final_price']:.2f}")
 
 ## Available Formulas
 
+
 | Category | Function | Formula |
 | :--- | :--- | :--- |
 | **Customer** | `calculate_nps` | %Promoters - %Detractors |
@@ -88,6 +89,8 @@ print(f"Projected Median Price: {sim['median_final_price']:.2f}")
 | **Investment** | `calculate_npv` | Σ (Cash Flow / (1 + r)^t) |
 | **Risk** | `sharpe_ratio` | (Mean Return - Risk Free Rate) / Std Dev |
 | **Simulation** | `monte_carlo` | Geometric Brownian Motion Price Paths |
+| **Annuity**    | `annuity_pv`  | ∑(1+r)tCt​​ |
+
 
 -----
 
